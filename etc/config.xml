@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <catalog>
+            <frontend>
+                <remove_add_to_cart_for_guest>1</remove_add_to_cart_for_guest>
+                <remove_add_to_cart_for_all>0</remove_add_to_cart_for_all>
+            </frontend>
+        </catalog>
+    </default>
+</config>
